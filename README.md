@@ -13,6 +13,6 @@ Connect with me:
 - Pursuing UG in Computer Science at SRM AP
 
 ## ⬆ My works:
-- 📝 My [Resume](https://drive.google.com/file/d/1zX4VFBINzj0PXiQtGTp8PsH1FxgX-38I/view?usp=sharing)
+- 📝 My [Resume](https://drive.google.com/file/d/1Xis1gQjS4GMpVVtHfL7kjT9Be1hMPDwm/view?usp=sharing)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=narenpolavarapu.visitor-badge)
